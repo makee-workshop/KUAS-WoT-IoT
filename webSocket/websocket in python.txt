@@ -1,0 +1,15 @@
+1. curl https://bootstrap.pypa.io/ez_setup.py -k -o - | python
+2. mkdri python
+3. https://pypi.python.org/packages/source/s/six/six-1.10.0.tar.gz
+3. scp /Users/Archer/Downloads/six-1.10.0.tar.gz root@arduino.local:/root/python
+4. tar zxvf six-1.10.0.tar.gz
+5. cd six-1.10.0
+6. python setup.py install
+7. https://pypi.python.org/packages/source/w/websocket-client/websocket_client-0.32.0.tar.gz
+8. scp /Users/Archer/Downloads/websocket_client-0.32.0.tar.gz root@arduino.local:/root/python
+9. tar zxvf websocket_client-0.32.0.tar.gz 
+10. cd websocket_client-0.32.0
+11. python setup.py install
+12. download https://github.com/makee-workshop/KUAS-WoT-IoT/tree/master/webSocket/webSocket.ino
+13. download https://github.com/makee-workshop/KUAS-WoT-IoT/tree/master/webSocket/garden.py
+14. scp garden.py root@arduino.local:/root/python
