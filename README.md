@@ -1,4 +1,4 @@
-# Makee.io IoT 與 WoT 物聯網裝置實作：使用 Arduino Yun 專題演講
+# IoT 與 WoT 物聯網裝置實作：使用 Arduino Yun 專題演講
 
 ## Philosophy
 
@@ -13,8 +13,6 @@
 * Demo Client Dashboard
 
 ## License
-
-###### Copyright 2015 Oranwind Inc. All rights reserved.
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
